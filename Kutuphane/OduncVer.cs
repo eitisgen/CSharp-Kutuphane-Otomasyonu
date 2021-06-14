@@ -25,7 +25,7 @@ namespace Kutuphane
             InitializeComponent();
                                 }
 
-        public void Baglan()
+        public void Baglan1()
         {
             
             baglanti = new OleDbConnection("Provider=Microsoft.ACE.Oledb.12.0; Data Source=../../../Database/Kutuphane.mdb");
